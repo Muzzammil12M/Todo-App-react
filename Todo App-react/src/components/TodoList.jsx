@@ -1,4 +1,3 @@
-import { useState } from "react";
 import TodoCard from "./TodoCard";
 
 export default function TodoList(props) {
